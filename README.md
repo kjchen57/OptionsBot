@@ -25,4 +25,4 @@ Blog：http://server.everfine.com.tw/blog/<br/>
 
 歡迎大家加入討論程式交易，<a href="http://www.facebook.com/tradingbot">TradingBot 粉絲團</a>或<a href="http://www.coco-in.net/forum-140-1.html">Coco-in討論區 - TradingBot程式交易機器人</a><br/>
 若需要支援服務，還請小額贊助，支持永續發展此TradingBot。感謝！<br/>
-聯絡資訊：philipzheng@gmail.com
+聯絡資訊：service@tradingbot.com.tw
